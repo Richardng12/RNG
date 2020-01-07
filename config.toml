@@ -49,7 +49,7 @@ theme = "hello-friend-ng"
 	
 	[[params.social]]
     name = "email"
-    url  = "mailto:nobody@richardng1998@gmail.com"
+    url  = "mailto:richardng1998@gmail.com"
 
   [[params.social]]
     name = "github"
@@ -57,7 +57,7 @@ theme = "hello-friend-ng"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/richard98"
 
   # And you can even create generic menu
 [menu]  
