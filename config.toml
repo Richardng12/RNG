@@ -23,6 +23,10 @@ theme = "hello-friend-ng"
   defaultTheme = "dark"
   
   homeSubtitle = "Software Student at UoA"
+  
+  [taxonomies]
+  tag      = "tags"
+  category = "categories"
 
 [languages]
   [languages.en]
