@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hello-friend-ng1"
+theme = "hello-friend-ng"
 
 [params]
   dateform        = "Jan 2, 2006"
