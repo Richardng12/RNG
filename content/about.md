@@ -14,7 +14,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {{< image src="/img/UoA.png" alt="Hello Friend" position="left" style="max-width:40%" >}}
 
 
-Bachelor of Engineering (Hons) - Software Engineering
+**Bachelor of Engineering (Hons) - Software Engineering**
 
 The University of Auckland, 2017 - 2020
 
@@ -47,4 +47,52 @@ Notable Courses
 
 	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
+-------------------------------------------
 
+## Experience
+
+{{< image src="/img/thales2.png" alt="Hello Friend" position="left" style="max-width:30%" >}}
+
+**Thales**
+
+Software Engineering Intern, Nov 2020 - Feb 2020
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. =)
+
+**Technologies Used**
+
+ * C#
+ * .NET Core with Entity Framework
+ * Jira
+ * Git/Github
+ * Azure Functions, Key Vault, CosmosDB, Table Storage, 
+ * SQL Server, Oracle DB
+ * Linux, Windows Server
+ * Redis
+ * Jenkins
+
+-------------------------------------------
+
+
+{{< image src="/img/sx.jpg" alt="Hello Friend" position="left" style="max-width:30%" >}}
+
+**Southern Cross Health Society**
+
+Software Engineering Intern, Jan 2019 - Apr 2019
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. =)
+
+**Technologies Used**
+
+ * C#
+ * .NET Core
+ * Azure DevOps
+ * Git/Github
+ * AWS S3, Lambda, Secrets Manager
+ * Amazon Alexa API

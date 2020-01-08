@@ -1,8 +1,8 @@
 ---
-title: "Project 2"
+title: "FBChatAnalyser"
 description: "Consectetur adipiscing elit"
 repo: "#" # delete this line if you want a blog-like page
-tags: ["html", "css", "js"]
+tags: ["Java", "JSoup", "Maven", "Jackson"]
 weight: 2
 draft: false
 ---

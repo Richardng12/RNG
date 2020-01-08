@@ -1,8 +1,13 @@
----
-title: "Project 3"
-description: "Cras felis sapien"
-repo: "#" # delete this line if you want a blog-like page
-tags: ["bootstrap", "responsive"]
-weight: 3
-draft: false
----
++++
+title = "Terra Tales"
+description = "Created with Go, Hugo and CircleCI"
+type = ["posts","post"]
+tags = [
+    "C#",
+    "Unity",
+]
+categories = [
+    "Development",
+    "golang",
+]
++++
