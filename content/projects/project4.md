@@ -3,10 +3,10 @@ title = "Concert Booking Service"
 description = ""
 type = ["posts","post"]
 tags = [
-    "Java",
-    "Hibernate",
-    "Jackson",
-    "Maven",
+    "java",
+    "hibernate",
+    "jackson",
+    "maven",
 ]
 categories = [
     "Development",

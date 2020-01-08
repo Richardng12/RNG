@@ -3,8 +3,8 @@ title = "Terra Tales"
 description = "Created with Go, Hugo and CircleCI"
 type = ["posts","post"]
 tags = [
-    "C#",
-    "Unity",
+    "c#",
+    "unity",
 ]
 categories = [
     "Development",
