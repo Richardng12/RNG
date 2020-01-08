@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>/cv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/c#/</loc>
   </url>
   
@@ -36,11 +41,11 @@
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>/tags/golang/</loc>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/categories/golang/</loc>
   </url>
   
   <url>
