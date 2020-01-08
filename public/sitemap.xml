@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/projects/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/c#/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/circleci/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/development/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/go/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/hibernate/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/jackson/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/java/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/jsoup/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/maven/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/website/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/unity/</loc>
+  </url>
+  
+</urlset>
