@@ -32,7 +32,7 @@ googleAnalytics= "UA-156091976-1"
 [languages]
   [languages.en]
     title = "Richard Ng"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
