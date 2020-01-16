@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 languageCode = "en-us"
 theme = "testTheme"
 googleAnalytics= "UA-156091976-1"
