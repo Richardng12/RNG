@@ -1,9 +1,11 @@
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. =)a
+Hi! My name is Richard and i'm currently in my 4th yr of Software Engineering at the *University of Auckland*. I believe Software Engineering provides me with the opportunity to solve 
+problems on a large scale.
+  
+Besides coding, i have an avid interests in badminton, bouldering and gaming.
+
+This is my take on a personal website, so welcome to this space :)
 
 
 
@@ -57,7 +59,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
  * C#
  * .NET Core with Entity Framework
- * Jira
+ * { Jira, New Relic, SysAid } API
  * Git/Github
  * Azure Functions, Key Vault, CosmosDB, Table Storage, 
  * SQL Server, Oracle DB
