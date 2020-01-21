@@ -62,10 +62,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
  * { Jira, New Relic, SysAid } API
  * Git/Github
  * Azure Functions, Key Vault, CosmosDB, Table Storage, 
- * SQL Server, Oracle DB
+ * SQL Server
  * Linux, Windows Server
- * Redis
- * Jenkins
+
 
 -------------------------------------------
 
