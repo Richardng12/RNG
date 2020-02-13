@@ -19,14 +19,11 @@ This is my take on a personal website, so welcome to this space :)
 **Bachelor of Engineering (Hons) - Software Engineering**  
 *The University of Auckland, 2017 - 2020*
 
- Notable Courses
+Courses
 * **Software Architecture**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-	
-* **Operating Systems**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-* **Fundamentals of Database Systems**  
+* **Object-Oriented Software Construction**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 * **Computer Networks**  
@@ -35,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * **Human Computer Interaction**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 	
-* **Object-Oriented Software Construction**  
+* **Fundamentals of Database Systems**   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 	
 * **Introduction to Data Structures and Algorithms**  
@@ -62,9 +59,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
  * { Jira, New Relic, SysAid } API
  * Git/Github
  * Azure Functions, Key Vault, CosmosDB, Table Storage, 
- * SQL Server
+ * SQL Server, Oracle DB
  * Linux, Windows Server
-
+ * Redis
+ * Jenkins
 
 -------------------------------------------
 
