@@ -5,7 +5,7 @@ problems on a large scale.
   
 Besides coding, i have an avid interests in badminton, bouldering and gaming.
 
-This is my take on a personal website, so welcome to this space :)
+This is my take on a personal website (in progress), so welcome to this space :)
 
 
 
@@ -62,7 +62,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
  * SQL Server, Oracle DB
  * Linux, Windows Server
  * Redis
- * Jenkins
+ * SignalR
 
 -------------------------------------------
 
